@@ -1,0 +1,8 @@
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\bin\Debug\HighLowGame!.exe.config
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\bin\Debug\HighLowGame!.exe
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\bin\Debug\HighLowGame!.pdb
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\obj\Debug\HighLowGame!.csproj.AssemblyReference.cache
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\obj\Debug\HighLowGame!.csproj.SuggestedBindingRedirects.cache
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\obj\Debug\HighLowGame!.csproj.CoreCompileInputs.cache
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\obj\Debug\HighLowGame!.exe
+C:\Users\44771\Desktop\HighLowGame!\HighLowGame!\obj\Debug\HighLowGame!.pdb
